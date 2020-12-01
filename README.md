@@ -11,7 +11,8 @@ To recommend users
 - Recommendation system part II: Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items<br />
 - Recommendation system part III: When a business is setting up its e-commerce website for the first time without any product rating<br />
 
-input ss of the different kinds of reco systems
+![cold start reco](https://user-images.githubusercontent.com/58731785/100766577-c2234580-3433-11eb-8d19-0cedd6f14b49.png)
+
 
 ## Data Cleaning 
 Dataset used: input ss
