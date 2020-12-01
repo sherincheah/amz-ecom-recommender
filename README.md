@@ -6,6 +6,8 @@ When shopping on E-commerce platforms, customers are often faced with products t
 ## Objectives
 To recommend users a list of similar products within the same price range based on the current product they are browsing.
 
+## Installation & Usage
+
 ## Methods 
 - Recommendation system part I: Product popularity based system targeted at new customers<br />
 - Recommendation system part II: Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items<br />
