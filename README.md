@@ -4,7 +4,7 @@
 When shopping on E-commerce platforms, customers are often faced with products that does not match their search. It could be that the price is beyond our budget, the product recommended doesn’t suit our wants or consumer preferences just happen to change. Hence, it is crucial to know what algorithms and factors to include when creating a recommendation model.
 
 ## Objectives
-To recommend users 
+To recommend users a list of similar products within the same price range based on the current product they are browsing.
 
 ## Methods 
 - Recommendation system part I: Product popularity based system targeted at new customers<br />
@@ -21,3 +21,7 @@ Dataset used: input ss
 
 ## Algorithms 
 TFID vectorizer etc 
+
+## Further Work
+
+## Resources
