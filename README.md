@@ -1,12 +1,13 @@
 # Amazon E-Commerce Recommendation System Using Content-Based Filtering
 
-## Problem Statement 
-When shopping on E-commerce platforms, customers are often faced with products that does not match their search. It could be that the price is beyond our budget, the product recommended doesn’t suit our wants or consumer preferences just happen to change. Hence, it is crucial to know what algorithms and factors to include when creating a recommendation model.
+## Problem Statement
+When shopping on E-commerce platforms, customers may be faced with a bunch of irrelevant recommended products which could possibly divert them out from the shopping platform. Possible reasons include the suggested product price is beyond their budget and item style is too different. Understanding consumer preferences and leveraging on it to retain them in the site could increase the likelihood of them purchasing an item.
 
 ## Objectives
 To recommend users a list of similar products within the same price range based on the current product they are browsing.
 
 ## Installation & Usage
+1) Download [dataset](other_file.md)
 
 ## Methods 
 - Recommendation system part I: Product popularity based system targeted at new customers<br />
