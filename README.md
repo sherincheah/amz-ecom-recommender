@@ -22,7 +22,7 @@ To recommend users a list of similar products in the same category based on the 
 input ss
 
 ## Algorithms 
-input ss of import tfid...
+![tfid ss](https://user-images.githubusercontent.com/58731785/100896683-d893d480-34f9-11eb-8b43-7889650cf105.JPG)
 
 ## Further Work
 
