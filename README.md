@@ -17,12 +17,9 @@ To recommend users a list of similar products in the same category based on the 
 
 ![cold start reco](https://user-images.githubusercontent.com/58731785/100766577-c2234580-3433-11eb-8d19-0cedd6f14b49.png)
 
-
-## Data Preparation (Cleaning & EDA)
-input ss
-
 ## Algorithms 
 ![tfid ss](https://user-images.githubusercontent.com/58731785/100896683-d893d480-34f9-11eb-8b43-7889650cf105.JPG)
+![linear_kernel](https://user-images.githubusercontent.com/58731785/100897061-42ac7980-34fa-11eb-9147-228de7aece8b.JPG)
 
 ## Further Work
 
@@ -34,3 +31,5 @@ input ss
 - [Xiangfeng](https://github.com/xiangfengg)
 
 ## Resources
+- https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
+- https://data.world/promptcloud/amazon-product-dataset-2020/workspace/file?filename=marketing_sample_for_amazon_com-ecommerce__20200101_20200131__10k_data.csv%2Fhome%2Fsdf%2Fmarketing_sample_for_amazon_com-ecommerce__20200101_20200131__10k_data.csv
