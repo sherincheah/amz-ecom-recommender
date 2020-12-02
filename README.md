@@ -31,6 +31,6 @@ input ss of import tfid...
 - [Sherin](https://github.com/sherincheah)
 - [Denzel](https://github.com/bub28)
 - [Jesslyn](https://github.com/jesslynhillary)
-- [Xiangfeng](https://github.com/xianggfeng)
+- [Xiangfeng](https://github.com/xiangfengg)
 
 ## Resources
