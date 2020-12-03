@@ -7,8 +7,9 @@ When shopping on E-commerce platforms, customers may be faced with a bunch of ir
 To recommend users a list of similar products in the same category based on the current product they are browsing.
 
 ## Installation & Usage
-1) Download [amazon products dataset](https://github.com/sherincheah/Ecommerce-recommendation-system/blob/main/amazon%20products.csv). Because the file is too large Github only shows in raw format. You will see "Raw" button on the top right side of the dataset, press "Alt" and then left click the "Raw" button. The whole CSV will download in your system. To convert from txt to csv file, open Excel and under the Data tab click on 'From Text' to upload the txt file.
-2) Open python codes on a compatible platform eg. jupyter notebook, google colab 
+1) Download [amazon products dataset](https://github.com/sherincheah/Ecommerce-recommendation-system/blob/main/amazon%20products.csv). Because the file is too large Github only shows in raw format. You will see "Raw" button on the top right side of the dataset, press "Alt" and then left click the "Raw" button. The whole CSV will download in your system. To convert from txt to csv file, open Excel, under Data tab click on 'From Text' to upload the txt file.
+2) There are 2 files containing codes - Data Cleaning with EDA and Algorithms only.
+3) Open python codes on a compatible platform eg. jupyter notebook, google colab 
 
 ## Methods 
 - Recommendation system part I: Product popularity based system targeted at new customers<br />
