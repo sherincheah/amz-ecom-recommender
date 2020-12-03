@@ -22,7 +22,9 @@ To recommend users a list of similar products in the same category based on the 
 ![linear_kernel](https://user-images.githubusercontent.com/58731785/100897061-42ac7980-34fa-11eb-9147-228de7aece8b.JPG)
 
 ## Further Work
-
+- Arrange recommended list in ascending order of price so that users will know that is the next best alternative
+- Explore into online supermarket recommendation system
+  e.g. customer browsing for pastas, there will be 2 categories of recommended list - 'similar products' and 'other related products'
 
 ## Authors
 - [Sherin](https://github.com/sherincheah)
