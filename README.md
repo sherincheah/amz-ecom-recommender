@@ -10,7 +10,6 @@ To recommend users a list of similar products in the same category based on the 
 Requirements:
 
 - Git
-- Docker
 - Python3
 
 ```
@@ -25,7 +24,7 @@ $ jupyter notebook
 There are 3 notebooks used in this analysis:
 
 - Data Cleaning: [data_cleaning_eda.ipynb](https://github.com/sherincheah/amz-ecom-recommender/blob/main/notebooks/data_cleaning_eda.ipynb)
-- Algorithm: [algorithm_linear_kernel.ipynb](https://github.com/sherincheah/amz-ecom-recommender/blob/main/notebooks/algorithm_linear_kernel.ipynb)
+- Algorithm: [algorithm_linear_kernel.ipynb](https://nbviewer.jupyter.org/github/sherincheah/amz-ecom-recommender/blob/main/notebooks/algorithm_linear_kernel.ipynb)
 - Main code (combination of EDA and Algorithm): [content_based_filtering_recommendation_system.ipynb](https://github.com/sherincheah/amz-ecom-recommender/blob/main/notebooks/content_based_filtering_recommendation_system.ipynb)          
 
 
