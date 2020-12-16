@@ -7,20 +7,40 @@ When shopping on E-commerce platforms, customers may be faced with a bunch of ir
 To recommend users a list of similar products in the same category based on the current product they are browsing.
 
 ## Installation & Usage
-1) Download [amazon products dataset](https://github.com/sherincheah/Ecommerce-recommendation-system/blob/main/amazon%20products.csv). Because the file is too large Github only shows in raw format. You will see "Raw" button on the top right side of the dataset, press "Alt" and then left click the "Raw" button. The whole CSV will download in your system. To convert from txt to csv file, open Excel, under Data tab click on 'From Text' to upload the txt file.
-2) There are 2 files containing codes - Data Cleaning with EDA and Algorithms only.
-3) Open python codes on a compatible platform eg. jupyter notebook, google colab 
+Requirements:
+
+- Git
+- Docker
+- Python3
+
+```
+$ https://github.com/sherincheah/amz-ecom-recommender.git
+$ cd amz-ecom-recommender
+
+$ jupyter notebook
+```
+
+  
+
+There are 3 notebooks used in this analysis:
+
+- Data Cleaning: [data_cleaning_eda.ipynb](https://github.com/sherincheah/amz-ecom-recommender/blob/main/notebooks/data_cleaning_eda.ipynb)
+- Algorithm: [algorithm_linear_kernel.ipynb](https://github.com/sherincheah/amz-ecom-recommender/blob/main/notebooks/algorithm_linear_kernel.ipynb)
+- Main code (combination of EDA and Algorithm): [content_based_filtering_recommendation_system.ipynb](https://github.com/sherincheah/amz-ecom-recommender/blob/main/notebooks/content_based_filtering_recommendation_system.ipynb)          
+
+
 
 ## Methods 
+
 - Recommendation system part I: Product popularity based system targeted at new customers<br />
 - Recommendation system part II: Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items<br />
 - Recommendation system part III: When a business is setting up its e-commerce website for the first time without any product rating<br />
 
 ![cold start reco](https://user-images.githubusercontent.com/58731785/100766577-c2234580-3433-11eb-8d19-0cedd6f14b49.png)
 
-## Algorithms 
-![tfid ss](https://user-images.githubusercontent.com/58731785/100896683-d893d480-34f9-11eb-8b43-7889650cf105.JPG)
-![linear_kernel](https://user-images.githubusercontent.com/58731785/100897061-42ac7980-34fa-11eb-9147-228de7aece8b.JPG)
+## Example  
+![result](https://github.com/sherincheah/amz-ecom-recommender/blob/main/img/example_output_161220.png)
+
 
 ## Further Work
 - Arrange recommended list in ascending order of price so that users will know that is the next best alternative
